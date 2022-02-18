@@ -7,8 +7,8 @@
 :: 
 :: Notice that there is no difference between them.
 :: 
-:: Use Orca to inspect the MSI.
-:: Notice that, besides the name, the two custom actions are identical.
+:: Use Orca to inspect the MSI file.
+:: Notice that, exckuding the name and the property, the two custom actions are identical.
 :: 
 :: END
 
