@@ -1,0 +1,10 @@
+﻿WiX Toolset Pills 15mg - SetProperty Tag
+====================================================================================================
+
+This file is part of the "SetProperty Tag" pill.
+
+The pill demonstrates that <SetProperty> tag is just an alternate way to create a custom action that
+sets a property.
+
+For more details please chech the GitHub repository:
+https://github.com/WiX-Toolset-Pills-15mg/SetProperty-Tag

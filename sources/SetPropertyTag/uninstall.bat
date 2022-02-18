@@ -1,0 +1,1 @@
+msiexec /x SetPropertyTag.msi /l*vx uninstall.log
